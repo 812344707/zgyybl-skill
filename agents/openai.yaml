@@ -1,0 +1,4 @@
+interface:
+  display_name: "zgyybl-skill"
+  short_description: "审查骨科病历，生成入院、首次与围手术期模板，支持参照照片和反馈学习"
+  default_prompt: "用 $zgyybl-skill 按本次目标选择审查路径或写作路径，处理以下骨科病历资料：……"
